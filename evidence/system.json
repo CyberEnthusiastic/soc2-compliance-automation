@@ -1,0 +1,11 @@
+{
+  "sso_enforced": true,
+  "mfa_enforced": true,
+  "mfa_coverage_pct": 99,
+  "encryption_at_rest": "AES-256",
+  "tls_min_version": "1.2",
+  "edr_coverage_pct": 97,
+  "siem_vendor": "Splunk Cloud",
+  "alerting_rules": 42,
+  "capacity_alerting": true
+}

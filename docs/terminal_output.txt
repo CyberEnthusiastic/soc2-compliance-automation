@@ -1,0 +1,31 @@
+============================================================
+  SOC 2 Compliance Automation v1.0
+============================================================
+[*] Controls evaluated: 20
+[*] Overall score     : 95.0%
+[*] Status            : {'PASS': 19, 'FAIL': 1, 'NO_EVIDENCE': 0}
+
+[x] PI1.1  Processing Integrity   Input/output validation
+       Review control description and collect supporting evidence.
+[+] A1.1  Availability           Backup and recovery procedures
+[+] A1.2  Availability           Capacity planning and monitoring
+[+] C1.1  Confidentiality        Confidential data classified and protected
+[+] CC1.1  Security               Commitment to integrity and ethical values
+[+] CC2.1  Security               Internal communication of security objectives
+[+] CC5.2  Security               Deployment of technology-based security controls
+[+] CC6.1  Security               Logical access restricted based on role
+[+] CC6.2  Security               Registration and authorization of new users
+[+] CC6.3  Security               Revocation of access upon termination
+[+] CC6.6  Security               Multi-factor authentication enforced
+[+] CC6.7  Security               Encryption of data at rest and in transit
+[+] CC6.8  Security               Prevention and detection of malicious software
+[+] CC7.1  Security               Detection of anomalies and security events
+[+] CC7.2  Security               Monitoring of system components for vulnerabilities
+[+] CC7.3  Security               Incident response procedures
+[+] CC8.1  Security               Change management process
+[+] CC9.1  Security               Risk assessment process
+[+] P1.1  Privacy                Privacy notice and choice
+[+] P4.2  Privacy                Data retention and disposal
+
+[*] JSON report: reports/soc2_report.json
+[*] HTML report: reports/soc2_report.html

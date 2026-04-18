@@ -1,0 +1,5 @@
+{
+  "document_url": "https://corp.example/playbooks/incident-response",
+  "last_tabletop_date": "2025-11-10T00:00:00Z",
+  "severity_levels": ["SEV1", "SEV2", "SEV3"]
+}

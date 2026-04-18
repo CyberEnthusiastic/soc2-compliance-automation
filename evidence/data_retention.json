@@ -1,0 +1,5 @@
+{
+  "policy_document": "https://corp.example/policies/retention",
+  "auto_delete_enabled": true,
+  "default_retention_days": 730
+}

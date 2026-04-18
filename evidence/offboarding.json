@@ -1,0 +1,6 @@
+{
+  "period": "2026-Q1",
+  "terminations": 5,
+  "max_hours_to_revoke": 12,
+  "median_hours_to_revoke": 3
+}

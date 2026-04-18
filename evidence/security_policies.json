@@ -1,0 +1,6 @@
+[
+  {"name": "Information Security Policy", "url": "https://corp.example/policies/infosec"},
+  {"name": "Acceptable Use Policy", "url": "https://corp.example/policies/aup"},
+  {"name": "Data Classification Policy", "url": "https://corp.example/policies/classification"},
+  {"name": "Incident Response Policy", "url": "https://corp.example/policies/ir"}
+]
